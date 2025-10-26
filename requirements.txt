@@ -4,6 +4,6 @@ beautifulsoup4==4.12.2
 newspaper3k==0.2.8
 apscheduler==3.10.1
 pandas==2.2.1
-sqlalchemy==2.1.0
+sqlalchemy
 python-dotenv==1.0.0
 vaderSentiment==3.3.3
