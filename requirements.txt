@@ -1,9 +1,9 @@
-Flask
+flask
+flask-cors
 requests
 beautifulsoup4
-newspaper3k
-apscheduler
-pandas
-sqlalchemy==2.0.25
-python-dotenv
+nltk
 vaderSentiment
+newspaper3k
+SQLAlchemy==2.0.25
+lxml_html_clean
